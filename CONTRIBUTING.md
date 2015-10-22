@@ -12,7 +12,8 @@ By submitting a pull request on a "pay for pull" issue you are accepting the [Te
 
 Here are some important resources:
 
-  * [Rapid Adoption Guide]()
+  * [Rapid Adoption Guide]() is where "pay for pull" is described in detail.
+  * [Pay for pull terms]() is the legalese verbiage applied to the transactions.
   * [Our Backlog]() is the detailed list of our work using waffle.io
   * [Gitter.im chat]() We're usually there during business hours.
 
