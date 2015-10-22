@@ -2,11 +2,11 @@
 
 I'm really glad you're reading this, because we need developers to help this project come to fruition.
 
-If you haven't already, come find us on gitter ([BCDevExchange-app](https://gitter.im/BCDevExchange/BCDevExchange-app)) and join the chat. We want you working on things you're excited about.
+If you haven't already, come find us on gitter.im ([BCDevExchange-app](https://gitter.im/BCDevExchange/BCDevExchange-app)) and join the chat. We want you working on things you're excited about.
 
 ## Pay for pull
 
-We are using a "pay for pull model" for some of the issues in this repository. That means that we associate a flat dollar amount that is payable upon merge of an associated pull request. The issues are labled with a "Rapid Adoption" tag as well as a tag indicating the canadian dollar amount associated with the merge.
+We are using a "pay for pull model" for some of the issues in this repository. That means that we associate a flat dollar amount that is payable upon merge of an associated pull request. The issues are labelled with a "Rapid Adoption" tag as well as a tag indicating the Canadian dollar amount associated with the merge.
 
 By submitting a pull request on a "pay for pull" issue you are accepting the [Terms](<<terms link>>). Detailed instructions on how to participate in the "pay for pull" model are [here](link to stuff).
 
@@ -14,7 +14,7 @@ Here are some important resources:
 
   * [Rapid Adoption Guide]()
   * [Our Backlog]() is the detailed list of our work using waffle.io
-  * [Gitter chat]() We're usually there during business hours.
+  * [Gitter.im chat]() We're usually there during business hours.
 
 ## Testing
 
