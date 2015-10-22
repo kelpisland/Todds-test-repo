@@ -2,11 +2,11 @@
 
 I'm really glad you're reading this, because we need developers to help this project come to fruition.
 
-If you haven't already, come find us on gitter.im ([BCDevExchange-app](https://gitter.im/BCDevExchange/BCDevExchange-app)) and join the chat. We want you working on things you're excited about.
+If you haven't already, come find us on gitter.im ([BCDevExchange-app](https://gitter.im/BCDevExchange/BCDevExchange-app)) and join the chat. We are excited you are here and we want you working on things you're excited about too.
 
 ## Pay for pull
 
-We are using a "pay for pull model" for some of the issues in this repository. That means that we associate a flat dollar amount that is payable upon merge of an associated pull request. The issues are labelled with a "Rapid Adoption" tag as well as a tag indicating the Canadian dollar amount associated with the merge.
+We are using a "pay for pull" model for some of the issues in this repository. That means that we associate a flat dollar amount that is payable upon merge of an associated pull request. These particular issues are labelled with a "Rapid Adoption" tag as well as a tag indicating the Canadian dollar amount associated with the merge.
 
 By submitting a pull request on a "pay for pull" issue you are accepting the [Terms](<<terms link>>). Detailed instructions on how to participate in the "pay for pull" model are [here](link to stuff).
 
@@ -23,7 +23,7 @@ Our testbed consists of xxxxx. Please write tests for new code you create.
 
 ## Submitting changes
 
-Please send a GitHub Pull Request with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)). Please follow our [coding conventions]()and make sure all of your commits are atomic (one feature per commit).
+Please send a GitHub Pull Request with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)). Please follow our [coding conventions]() and make sure all of your commits are atomic (one feature per commit).
 
 Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
 
